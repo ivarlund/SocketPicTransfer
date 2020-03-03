@@ -9,7 +9,6 @@ import java.net.Socket;
  * Simple JPanel class to hold the image received from the Client class.
  *
  * @author Ivar Lund
- * ivlu1468
  * ivarnilslund@gmail.com
  */
 public class Picture extends JPanel{
