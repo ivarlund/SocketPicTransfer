@@ -3,7 +3,6 @@
  * a socket and receive images from same socket.
  *
  * @author Ivar Lund
- * ivlu1468
  * ivarnilslund@gmail.com
  */
 
